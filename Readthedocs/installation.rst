@@ -52,6 +52,10 @@ open conf.py file. Edit
 .. code-block :: python
     
     html_theme = 'sphinx_rtd_theme'
+    
+    
+ GitHub Pull Request
+ **********************
 
 
 **Referance**
